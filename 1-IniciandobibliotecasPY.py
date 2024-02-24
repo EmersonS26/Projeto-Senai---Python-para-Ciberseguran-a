@@ -1,4 +1,4 @@
-# Documentação: https://docs.python.org/pt-br/3/library/os.html
+# Documentação do python para quem quiser: https://docs.python.org/pt-br/3/library/os.html
 
 # Bibliotecas
 import os
